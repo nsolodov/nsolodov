@@ -1,1 +1,5 @@
-![Snake animation](https://raw.githubusercontent.com/nsolodov/output/github-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nsolodov/nsolodov/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nsolodov/nsolodov/output/github-snake.svg" />
+  <img alt="" src="https://raw.githubusercontent.com/nsolodov/nsolodov/output/github-snake.svg" />
+</picture>
